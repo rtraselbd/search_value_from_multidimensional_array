@@ -33,6 +33,6 @@ $array = [
 	]
 ];
 
-$search = '456789458';
+$search = 'uitttttt';
 
-echo search_value_from_multidimensional_array($array, $search); // output 456789458
+echo search_value_from_multidimensional_array($array, $search); // output uiuittttttttttttttju97766
